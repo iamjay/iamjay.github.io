@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://iamjay.github.io/about/</loc>
+    <lastmod>2017-06-14T20:52:29+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://iamjay.github.io/categories/</loc>
     <priority>0</priority>
   </url>
