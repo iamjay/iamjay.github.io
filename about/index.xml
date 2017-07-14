@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Jay&#39;s Journal</title>
-    <link>https://iamjay.github.io/about/</link>
+    <link>https://www.jayjournal.net/about/</link>
     <description>Recent content in About on Jay&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>pathompong@gmail.com</copyright>
     <lastBuildDate>Fri, 16 Jun 2017 12:49:20 +0700</lastBuildDate>
     
-	<atom:link href="https://iamjay.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jayjournal.net/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jay&#39;s Journal</title>
-    <link>https://iamjay.github.io/categories/</link>
+    <link>https://www.jayjournal.net/categories/</link>
     <description>Recent content in Categories on Jay&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>pathompong@gmail.com</copyright>
     
-	<atom:link href="https://iamjay.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jayjournal.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News</title>
-      <link>https://iamjay.github.io/categories/news/</link>
+      <link>https://www.jayjournal.net/categories/news/</link>
       <pubDate>Fri, 16 Jun 2017 16:38:20 +0700</pubDate>
       
-      <guid>https://iamjay.github.io/categories/news/</guid>
+      <guid>https://www.jayjournal.net/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>https://iamjay.github.io/categories/travel/</link>
+      <link>https://www.jayjournal.net/categories/travel/</link>
       <pubDate>Fri, 14 Jul 2017 13:26:00 +0700</pubDate>
       
-      <guid>https://iamjay.github.io/categories/travel/</guid>
+      <guid>https://www.jayjournal.net/categories/travel/</guid>
       <description></description>
     </item>
     
