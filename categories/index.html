@@ -13,7 +13,16 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    
+    <script>
+function getCookieValue(a) {
+    var b = document.cookie.match('(^|;)\\s*' + a + '\\s*=\\s*([^;]+)');
+    return b ? b.pop() : '';
+}
+if (getCookieValue("InternalTraffic") === "true") {
+    window['ga-disable-UA-102582424-1'] = true;
+}
+</script>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Hugo 0.22.1">
@@ -83,6 +92,7 @@ ga('send', 'pageview');
     enable_page_level_ads: true
   });
 </script>
+
   </head>
 
   <body>
